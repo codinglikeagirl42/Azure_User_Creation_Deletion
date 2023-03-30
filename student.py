@@ -13,7 +13,7 @@ for (student, password) in zip(students, passwords):
   print("UserName = " + student)
   print("Password = " + password)
   print()
-  print("Junk Database: JunkDB_KC")
+  print("Junk Database: JunkDB")
   print("Schema name = " + student)
   print()
   print("-------------------------------------------------------")
